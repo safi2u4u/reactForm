@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+} 
+ 
+ 
+ 
+ .container{
+  
+ 
+ 
+  /* justify-content: center; */
+
+}
+
+.cl{
+  display: flex;
+  justify-content: flex-end;
+  /* padding: 10px; */
+  width: 100%;
+  border: 1px solid red;
+
+
+}
+.cl li{
+  margin: 20px;
+ 
+}
